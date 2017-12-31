@@ -56,7 +56,7 @@ I assumed it is not support on mybatis officially. So in my case, I managed a ja
 
 * Map을 상속받는 클래스 만들기(CamelListMap).
 예제에서는 ListOrderedMap을 상속 받았다.  
-Making a java class extends Map. This extends ListOrderedMap in my example.
+Making a java class extends Map. It extends ListOrderedMap in my example.
 
 ```java
 
