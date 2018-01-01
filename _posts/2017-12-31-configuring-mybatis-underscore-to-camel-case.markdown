@@ -114,7 +114,7 @@ Adding a result type to java class on mapper xml
 
 
 * 제대로 작동이 되는지 확인.  
-Check if it is pass or not.
+Check if it is passd or not.
 
 ```java
 CamelListMap map = sampleMapper.sampleList(paramsMap);
