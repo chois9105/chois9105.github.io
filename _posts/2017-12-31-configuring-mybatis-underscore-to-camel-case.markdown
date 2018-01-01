@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "configuring mybatis-underscore to camel case"
+title:  "Configuring mybatis-underscore to camel case"
 subtitle: 'This is a post description for setting up Mybatis. After reading this post, you are able to configure to return map object as a camel case on mybatis.'
 date:   2017-12-31
 categories: spring
@@ -124,5 +124,5 @@ for (Object key : map.keyList()){
 }
 ```
 
-![테스트결과(test result)]({{site.url}}/assets/post/camelcase.PNG)
+![테스트결과(test result)]({{site.url}}/assets/post/20171231/1.PNG)
 
