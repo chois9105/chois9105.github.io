@@ -18,9 +18,9 @@ spring boot로 프로젝트를 만들면 h2 db와 연결하기 매우 쉽다.
 If you are creating spring boot project, It will be very easy to setting h2 db with spring boot.  
 Let's follow screenshots below. that is intellij but eclipse much similar to it.
 
-![1]({{site.url}}/assets/post/20180101/1.PNG)
-![2]({{site.url}}/assets/post/20180101/2.PNG)
-![3]({{site.url}}/assets/post/20180101/3.PNG)
+![1]({{site.url}}/assets/post/20180101/1.png)
+![2]({{site.url}}/assets/post/20180101/2.png)
+![3]({{site.url}}/assets/post/20180101/3.png)
 
 
 h2 db와 관련된 dependency 추가 및 yaml에 h2관련 정보 설정.  
@@ -49,13 +49,13 @@ spring:
 ```
 
 
-![4]({{site.url}}/assets/post/20180101/4.PNG)
+![4]({{site.url}}/assets/post/20180101/4.png)
 
 spring boot 프로젝트를 실행시켜 동작이 제대로 되는지 확인해보자.  
 Let's run spring boot project if it does well or not.
 
-![5]({{site.url}}/assets/post/20180101/5.PNG)
-![6]({{site.url}}/assets/post/20180101/6.PNG)
+![5]({{site.url}}/assets/post/20180101/5.png)
+![6]({{site.url}}/assets/post/20180101/6.png)
 
 이로써 spring boot 프로젝트에 h2 db를 연결하는 부분을 모두 끝냈다.  
 github에 방금 구성한 설정들을 올려 놓았으니 잘 모르겠으면 프로젝트를 받아서 사용하면 된다.

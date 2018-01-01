@@ -124,5 +124,5 @@ for (Object key : map.keyList()){
 }
 ```
 
-![테스트결과(test result)]({{site.url}}/assets/post/20171231/1.PNG)
+![테스트결과(test result)]({{site.url}}/assets/post/20171231/1.png)
 
