@@ -42,6 +42,7 @@ You have to make sure maven plugin was added on the maven projects view after ad
 If you don't know how to open a view, you should follow it.
 
 ![Maven View]({{site.url}}/assets/post/20180103/mavenview.png)
+![Maven Plugin]({{site.url}}/assets/post/20180103/mavenplugin.png)
 
 이제 src/main/resources 폴더 안에 generatorConfig.xml 파일을 만들고 아래 내용을 복사한다.
 
