@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "Creating spring boot project with H2 DB"
+title:  "Creating spring boot project with H2 DB."
 subtitle: 'If you want to create spring project with h2 db, this post help you make it.'
 date:   2018-01-01
 categories: spring
@@ -15,8 +15,8 @@ spring boot로 프로젝트를 만들면 h2 db와 연결하기 매우 쉽다.
 
 
 #### Creating spring boot project.  
-If you are creating spring boot project, It will be very easy to setting h2 db with spring boot.  
-Let's follow screenshots below. that is intellij but eclipse much similar to it.
+If you are creating spring boot project, it will be very easy to setting h2 db with spring boot.  
+Let's follow screenshots below. That is intellij but eclipse much similar to it.
 
 ![프로젝트생성1(Creating1)]({{site.url}}/assets/post/20180101/1.png)
 ![프로젝트생성2(Creating2)]({{site.url}}/assets/post/20180101/2.png)
